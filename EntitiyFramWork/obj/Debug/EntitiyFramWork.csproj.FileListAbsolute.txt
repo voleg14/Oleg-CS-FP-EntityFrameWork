@@ -1,0 +1,30 @@
+C:\Oleg\My projects\C# Final Project\EntitiyFramWork\EntitiyFramWork\bin\Debug\EntitiyFramWork.exe.config
+C:\Oleg\My projects\C# Final Project\EntitiyFramWork\EntitiyFramWork\bin\Debug\EntitiyFramWork.exe
+C:\Oleg\My projects\C# Final Project\EntitiyFramWork\EntitiyFramWork\bin\Debug\EntitiyFramWork.pdb
+C:\Oleg\My projects\C# Final Project\EntitiyFramWork\EntitiyFramWork\obj\Debug\EntitiyFramWork.Form1.resources
+C:\Oleg\My projects\C# Final Project\EntitiyFramWork\EntitiyFramWork\obj\Debug\EntitiyFramWork.Properties.Resources.resources
+C:\Oleg\My projects\C# Final Project\EntitiyFramWork\EntitiyFramWork\obj\Debug\EntitiyFramWork.csproj.GenerateResource.cache
+C:\Oleg\My projects\C# Final Project\EntitiyFramWork\EntitiyFramWork\obj\Debug\EntitiyFramWork.csproj.CoreCompileInputs.cache
+C:\Oleg\My projects\C# Final Project\EntitiyFramWork\EntitiyFramWork\obj\Debug\EntitiyFramWork.exe
+C:\Oleg\My projects\C# Final Project\EntitiyFramWork\EntitiyFramWork\obj\Debug\EntitiyFramWork.pdb
+C:\Oleg\My projects\C# Final Project\EntitiyFramWork\EntitiyFramWork\bin\Debug\EntityFramework.dll
+C:\Oleg\My projects\C# Final Project\EntitiyFramWork\EntitiyFramWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Oleg\My projects\C# Final Project\EntitiyFramWork\EntitiyFramWork\bin\Debug\EntityFramework.xml
+C:\Oleg\My projects\C# Final Project\EntitiyFramWork\EntitiyFramWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Oleg\My projects\C# Final Project\EntitiyFramWork\EntitiyFramWork\obj\Debug\EntitiyFramWork.csproj.CopyComplete
+C:\Oleg\My projects\C# Final Project\EntitiyFramWork\EntitiyFramWork\obj\Debug\EntitiyFramWork.csprojAssemblyReference.cache
+C:\Oleg\Study\My Projects\Oleg-C--FP-EntityFrameWork-master\Oleg-C--FP-EntityFrameWork-master\EntitiyFramWork\bin\Debug\EntitiyFramWork.exe.config
+C:\Oleg\Study\My Projects\Oleg-C--FP-EntityFrameWork-master\Oleg-C--FP-EntityFrameWork-master\EntitiyFramWork\bin\Debug\EntitiyFramWork.exe
+C:\Oleg\Study\My Projects\Oleg-C--FP-EntityFrameWork-master\Oleg-C--FP-EntityFrameWork-master\EntitiyFramWork\bin\Debug\EntitiyFramWork.pdb
+C:\Oleg\Study\My Projects\Oleg-C--FP-EntityFrameWork-master\Oleg-C--FP-EntityFrameWork-master\EntitiyFramWork\bin\Debug\EntityFramework.dll
+C:\Oleg\Study\My Projects\Oleg-C--FP-EntityFrameWork-master\Oleg-C--FP-EntityFrameWork-master\EntitiyFramWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Oleg\Study\My Projects\Oleg-C--FP-EntityFrameWork-master\Oleg-C--FP-EntityFrameWork-master\EntitiyFramWork\bin\Debug\EntityFramework.xml
+C:\Oleg\Study\My Projects\Oleg-C--FP-EntityFrameWork-master\Oleg-C--FP-EntityFrameWork-master\EntitiyFramWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Oleg\Study\My Projects\Oleg-C--FP-EntityFrameWork-master\Oleg-C--FP-EntityFrameWork-master\EntitiyFramWork\obj\Debug\EntitiyFramWork.csprojAssemblyReference.cache
+C:\Oleg\Study\My Projects\Oleg-C--FP-EntityFrameWork-master\Oleg-C--FP-EntityFrameWork-master\EntitiyFramWork\obj\Debug\EntitiyFramWork.Form1.resources
+C:\Oleg\Study\My Projects\Oleg-C--FP-EntityFrameWork-master\Oleg-C--FP-EntityFrameWork-master\EntitiyFramWork\obj\Debug\EntitiyFramWork.Properties.Resources.resources
+C:\Oleg\Study\My Projects\Oleg-C--FP-EntityFrameWork-master\Oleg-C--FP-EntityFrameWork-master\EntitiyFramWork\obj\Debug\EntitiyFramWork.csproj.GenerateResource.cache
+C:\Oleg\Study\My Projects\Oleg-C--FP-EntityFrameWork-master\Oleg-C--FP-EntityFrameWork-master\EntitiyFramWork\obj\Debug\EntitiyFramWork.csproj.CoreCompileInputs.cache
+C:\Oleg\Study\My Projects\Oleg-C--FP-EntityFrameWork-master\Oleg-C--FP-EntityFrameWork-master\EntitiyFramWork\obj\Debug\EntitiyFramWork.csproj.CopyComplete
+C:\Oleg\Study\My Projects\Oleg-C--FP-EntityFrameWork-master\Oleg-C--FP-EntityFrameWork-master\EntitiyFramWork\obj\Debug\EntitiyFramWork.exe
+C:\Oleg\Study\My Projects\Oleg-C--FP-EntityFrameWork-master\Oleg-C--FP-EntityFrameWork-master\EntitiyFramWork\obj\Debug\EntitiyFramWork.pdb
